@@ -1,3 +1,7 @@
+body {
+    background-color: lightgray;
+}
+
 header {
     font-size: 2em;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -10,9 +14,9 @@ header {
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    border: 2px solid black;
+    border: 7px solid black;
     padding: auto;
-    margin: auto 8rem;
+    margin: auto 40rem;
 }
 
 
